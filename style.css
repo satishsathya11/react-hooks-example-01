@@ -1,0 +1,15 @@
+h1, p {
+  font-family: Lato;
+}
+
+.counter {
+  margin: 10px;
+}
+
+.focus {
+  margin: 10px;
+}
+
+.focus-button {
+  color: red;
+}
